@@ -5,7 +5,7 @@
 <!-- Home Page : https://site.com/ -->
  
 
-<p><img src="./docs/images/Home.png"
+<p><img src="./docs/images/home.png"
 alt="ASP.NET Core MVC - Simple Stripe eShop Demo" width="400" height="300" border="10" /></p>
 
 # Section Heading
